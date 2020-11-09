@@ -22,7 +22,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import com.google.common.io.Files;
 
 public class ProjectLaunch {
-
+//check
 	public static void main(String[] args) throws Exception {
 		System.setProperty("webdriver.chrome.driver", "F:\\IT Related\\Softwares & Plugins\\chromedriver v85.exe");
 		WebDriver driver = new ChromeDriver();
